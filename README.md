@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KartikProgrammed
 - 👀 I’m interested in Programming useful softwares
-- 🌱 I’m currently learning C language as a part of my Syllabi
-- 📫 Reach me out at my instagram kartik_khatri_2114
+- 🌱 I’m currently a student learning and exploring new Programming Languages
+- 📫 Reach me out at my instagram kartikk.khatri
 
 <!---
 KartikProgrammed/KartikProgrammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
