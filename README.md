@@ -9,22 +9,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-khatri&show_icons=true&theme=github_dark&count_private=true" alt="Kartik's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=kartik-khatri&theme=github-dark-blue" alt="Kartik's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-khatri&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
