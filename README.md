@@ -36,7 +36,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="hhtps://linkedin.com/in/kartik-khatri-509723201"><img src="https://img.shields.io/badge/LinkedIn-kartik--khatri-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kartik-khatri-509723201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd39KvP96SHatGQX5zx%2BqLg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-kartik--khatri-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/KartikProgrammed"><img src="https://img.shields.io/badge/GitHub-kartik--khatri-black?style=for-the-badge&logo=github" /></a>
 </p>
 
